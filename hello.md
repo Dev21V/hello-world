@@ -1,0 +1,43 @@
+# hello git
+
+## git 명령어 요약
+
+- clone: 원격 저장소 복사
+- add: 스테이지 영역에 작업 파일 추가
+- commit: 세이브, 스테이지 영역의 파일들을 가지고 커밋(=세이브) 를 만들 수 있다.
+- push: 원격 저장소에 커밋을 업로드 하는것.
+
+##  VS Code 명령어 요약
+
+- ! + Tab : HTML 초기 태그 자동완성
+- 괄호로 묶기 : Drag → (
+- 자동 정렬 : Shift + Alt + F
+- N번째 라인으로 이동 : Ctrl + G
+- 선택한 함수 정의문으로 바로 이동 : F12/ Ctrl + Click
+- 이동하지 않고 함수 정의문 미리보기 : Alt + F12
+- 코드 함수로 감싸기(리팩토링) : Ctrl + Shift + R
+- 한줄 복사 : Shift + Alt + (↑,↓)
+- 한줄 이동: Alt + (↑,↓)
+- 한줄 삭제: Ctrl + Shift + K
+- 코드 한 라인으로 묶기 : Ctrl + L
+- 같은 단어 하나씩 선택(하향) : Ctrl + D
+- 같은 단어 전체 선택 : Ctrl + Shift + L
+- 단어 변환 한번에 : F2→ Ctrl + H
+
+- 멀티 커서 : Alt+ click
+- 긴 커서 : Ctrl + Alt + (↑,↓)
+- 자유 영역 지정 : Shift + Alt + Mouse Drag
+- 드래그 된 모든 줄 끝에 커서 생성 : Alt + Shift + I
+
+- 에러 발생시 없는 모듈 Import : Ctrl + .(점)
+
+- 한줄 주석 : Ctrl + / (여러줄 태그시 각각 // 적용)
+- 블록 주석 묶기(/**/) : Drag → Alt + Shift + A
+-  일치하는 텍스트 변환 : Ctrl + H 
+- 설정창 열기 : Ctrl + ,(콤마)
+- 터미널 열기 : Ctrl + `(백틱)
+- 왼쪽 탐색기 창 끄기/켜기 : Ctrl + B
+- 폰트 사이즈 조정 : Ctrl + ('+'/'-')
+- 좌/우 화면으로 포커스 : Ctrl + 1/2
+- 탭 변환 : Ctrl + PGU/PGD
+- 파일 검색해서 찾기(메뉴 X) : Ctrl + p
